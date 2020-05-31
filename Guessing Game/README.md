@@ -1,7 +1,4 @@
 #Guessing Game
-Guessing Game
-
- 
 
 Interface
 
