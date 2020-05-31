@@ -1,4 +1,4 @@
-#Binary Translator 
+Binary Translator 
 
 Problem Solving
 
