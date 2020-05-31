@@ -18,14 +18,14 @@ Additional Help:
 
 Java swing components and layout managers:
 
-https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html (Links to an external site.)
+https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html
 
  
 
 Basic swing components:
 
-http://web.mit.edu/6.005/www/sp14/psets/ps4/java-6-tutorial/components.html (Links to an external site.) (Links to an external site.)
+http://web.mit.edu/6.005/www/sp14/psets/ps4/java-6-tutorial/components.html
 
-https://docs.oracle.com/javase/tutorial/uiswing/components/index.html (Links to an external site.)
+https://docs.oracle.com/javase/tutorial/uiswing/components/index.html
 
 https://docs.oracle.com/javase/tutorial/uiswing/components/componentlist.html
