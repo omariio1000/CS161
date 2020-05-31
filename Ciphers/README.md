@@ -1,1 +1,1 @@
-Extension of Android Cryptography project
+Refer to AndroidCryptDesc.md for details
