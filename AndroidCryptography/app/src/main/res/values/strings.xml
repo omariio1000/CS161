@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCryptography</string>
+    <string name="cryptography">Cryptography</string>
+</resources>
